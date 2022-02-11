@@ -131,3 +131,5 @@ dmypy.json
 #directory
 ./data
 ./resultdata
+
+*.png
